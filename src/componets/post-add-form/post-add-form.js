@@ -4,7 +4,7 @@ import './post-add-form.css';
 
 const PostAddForm = () => {
     return (
-        <div className="fbottom-panel d-flex">
+        <div className="bottom-panel d-flex">
             <input 
                 type="text"
                 placeholder="What are you thinking about?"
